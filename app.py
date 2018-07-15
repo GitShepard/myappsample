@@ -14,4 +14,5 @@ def s_printer():
     print('hello world')
 
 
-s_printer()
+if __name__ == "__main__":
+    s_printer()
